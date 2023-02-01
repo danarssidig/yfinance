@@ -1,2 +1,0 @@
-yfinance == 0.1.90
-streamlit == 1.16.0
